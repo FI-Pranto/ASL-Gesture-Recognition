@@ -66,8 +66,12 @@ Training Parameters:
 ## Visualizations
 
 - 📈 **Training Curves**: Accuracy and loss plots showed consistent improvement for DenseNet121.
+  ![Training Accuracy Curve](BestModelAccuracyCurve.png)
+  ![Training Accuracy Curve](BestModelLossCurve.png)
+
   
 - 🔍 **Confusion Matrix**: Helped identify which gestures were most frequently confused.
+ ![Training Accuracy Curve](BestModelConfusionMatrix.png)
 
 ---
 
